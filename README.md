@@ -7,6 +7,9 @@ Bu proje, film verileri üzerinde derinlemesine bir analiz yaparak sektördeki t
  `load_data` fonksiyonu kullanılarak veri çerçevesi oluşturulmuştur.
    
  `df.info()` ile veri tipleri ve eksik değerler kontrol edilmiştir.
+ 
+ <img width="506" height="470" alt="Ekran görüntüsü 2025-07-23 142724" src="https://github.com/user-attachments/assets/aa6938b8-664c-451b-95c2-19ae7ae1590e" />
+
 
  ### Rating Ortalamaları ve Yıllık Trendler
 
